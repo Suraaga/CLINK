@@ -1,2 +1,2 @@
 # CLINK
-Hyper text for every platform
+HyperLinks for every platform
